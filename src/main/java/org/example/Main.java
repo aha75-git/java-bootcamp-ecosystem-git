@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello and welcome!");
 
         System.out.println("Test des Branches 'feature-test2'");
+        System.out.println("Konflikt-Test des Branches");
         System.out.println(";-)");
     }
 }
