@@ -8,7 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
 
-        System.out.println("Test des Branches 'feature-test'");
+        System.out.println("Konflikt-Test des Branches");
         System.out.println(";-)");
     }
 }
